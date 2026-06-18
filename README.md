@@ -35,7 +35,7 @@ Parametric timing belt/pulley solver running in the browser. Part of a growing s
 
 **Software** — Python, C#, Swift/SwiftUI, Qt, WebSocket telemetry, Flask, embedded Linux, Yocto
 
-**Tools** — Fusion, KiCad, Altium, Fusion 360, 3D printing (×5 printers), full electronics lab
+**Tools** — Fusion, KiCad, Altium, 3D printing (×5 printers), full electronics lab
 
 **Domains** — Medical devices (FDA), nuclear safety, consumer electronics, material handling, robotics
 
