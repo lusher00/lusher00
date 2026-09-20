@@ -1,4 +1,4 @@
-# Hey, I'm Ryan
+# Hey, I'm Ryan, Some of this stuff is true. Some is AI I forgot to proof read.
 
 Embedded systems engineer with 20+ years building circuit boards and the software that powers them. I work across the full stack — schematic capture, PCB layout, bring-up, bare-metal firmware, RTOS, Linux drivers, and companion apps. I've shipped products in medical devices, consumer electronics, automotive, and industrial controls.
 
